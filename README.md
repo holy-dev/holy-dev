@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [https://bijoy.sh](https://bijoy.sh)
+- 👨‍💻 All of my projects are available at [https://bijoy.work](https://bijoy.work)
 
 - 💬 Ask me about **React, Next, Flutter, Nodejs, Expressjs**
 
-- 📫 How to reach me **hi@bijoy.sh**
+- 📫 How to reach me **hi@bijoy.work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
